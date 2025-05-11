@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HealthApp</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="heart_rate_text">%1$d bpm</string>
+    <string name="exercise_started">Đang đo: %1$s</string>
+    <string name="exercise_stopped">Đã dừng bài tập</string>
+    <string name="permission_denied">Không có quyền truy cập cảm biến.</string>
+    <string name="duration_format">%1$02d:%2$02d</string>
+
+    <string name="start_button">Start</string>
+<!--    <string name="hello_world">From the Square world,\nHello, %1$s!</string>-->
+</resources>
